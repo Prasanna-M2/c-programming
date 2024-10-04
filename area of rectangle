@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+    int l,b;
+    l=3;
+    b=3;
+    
+    printf("%d\n",l*b);
+    
+    printf("%d\n",l+b*2);
+
+}
+
