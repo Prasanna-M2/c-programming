@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+    char B;
+    scanf("%c",&B);
+    printf("the ascii value=%d",B);
+}
